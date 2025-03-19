@@ -27,18 +27,13 @@ myphoto![ava](https://github.com/Liza2006-ux/Liza2006-ux.github.io/blob/main/ava
 
 Разместила краткое описание владельца сайта (Biography).
 
-![project2](https://github.com/user-attachments/assets/8248b78f-c174-4b30-849f-70d7945f1aa9)
 
-
-![project2scr2](https://github.com/user-attachments/assets/6adeb533-982c-46cc-b1ca-6489bd064d7b)
-
-![project2scr3](https://github.com/user-attachments/assets/d04f6254-69d7-43e8-a74d-8fc7e0f141e5)
 
 # Добавила информацию об интересах (Interests).
 Интересы:
 Катание на велосипеде, чтение  книг, просмотр дорам, фильмов, занятие йогой и слушание музыки, посещение выставок, шоу, музеев, матчей.
 Изучаю немецкий, китайский, корейский и английский языки, различные дисциплины по математике и информатики.
-![project2scr4](https://github.com/user-attachments/assets/7b5f6608-aa06-4bbe-8b41-d1d38478774d)
+
 
 
 # Добавила информацию от образовании(Education).
