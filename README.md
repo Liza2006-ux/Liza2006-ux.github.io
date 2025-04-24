@@ -83,6 +83,35 @@ Bandicam,
 решение задач из комбинаторики, математической логики,
 предстоящая сдача   экзамена по немецкому языку B2,
 изучение корейского языка, предстоящая сдача экзамена.
+# Biography:
+Hometown - Pskov 
+
+She graduated from the Rimsky-Korsakov Music School with honors in piano and flute.
+She graduated from art school with honors in painting, drawing, and composition.
+ 
+She graduated from the lyceum with a red certificate and a gold medal. 
+
+KMS in taekwondo, ITF, black belt, winner of All-Russian competitions, winner of the Russian Championship, absolute champion of regional competitions.
+Gold TRP badge for 11th grade.
+
+Diploma of the Higher School of Economics in the German language of the regional stage. 
+
+Multiple chess competitions, there are prizes 
+
+Posted a short description of the site owner (Biography).
+
+
+
+# Added information about Interests.
+Interests:
+Cycling, reading books, watching dramas, movies, doing yoga and listening to music, visiting exhibitions, shows, museums, matches.
+I study German, Chinese, Korean, and English, as well as various subjects in mathematics and computer science.
+
+
+
+# Added information from Education.
+Education:
+1) To
 
 # LaTeX
 LaTeX — инструмент для создания профессионально выглядящих документов. 
